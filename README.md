@@ -12,7 +12,9 @@ I'd strongly recommend checking out [Marcel Milcent's](https://github.com/milcen
 
 Benford's Law, also known as the Law of First Digits, is the finding that for certain types of datasets, the first digits (or numerals) of numbers contained within a series do not display a uniform distribution, but rather follow a distribution shown below:
 
-![Benford Distribution](/doc/benford_dist.png)
+<p align="center">
+  <img src="/doc/benford_dist.png"/>
+</p>
 
 A more detailed overview of Benford's Law can be [found here](http://mathworld.wolfram.com/BenfordsLaw.html) and [here](http://www.nigrini.com/ForensicAnalytics.htm).
 
