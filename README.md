@@ -105,7 +105,7 @@ First Digit Distribution                             | First Two Digits Joint Di
 :---------------------------------------------------:|:------------------------------------------------------:
 ![Fairfield Sentry Monthly Returns](/doc/madoff.png) | ![Fairfield Sentry Monthly Returns](/doc/madoff_12.png)
 
-* China 2010 Census, urban area populations - [data source](https://en.wikipedia.org/wiki/Sixth_National_Population_Census_of_the_People%27s_Republic_of_China) (data download from the CN.zip file and cleaned). The data is not a fit for the first digit Benford distribution under the Chi-Squared test but does fit other digit distributions. 
+* China 2010 Census, urban area populations - [data source](https://en.wikipedia.org/wiki/Sixth_National_Population_Census_of_the_People%27s_Republic_of_China). The data is not a fit for the first digit Benford distribution under the Chi-Squared test but does fit other digit distributions. 
 
 First Digit Distribution                             | First Two Digits Joint Distribution
 :---------------------------------------------------:|:-------------------------------------------------------:
