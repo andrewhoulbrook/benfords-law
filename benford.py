@@ -109,8 +109,6 @@ def main():
         elif order == '123': chart_label = "First Three"
         else: print "Error: select a digit distribution to test against."; sys.exit(1)
 
-        temp = benford_function(order)
-
         # Calculate the digit counts in the user's dataset
         count_data_df = get_digit_counts(data_df, order)
 

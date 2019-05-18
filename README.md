@@ -67,7 +67,7 @@ Note: these are not minor installs! Read more about [NumPy](http://www.numpy.org
 
 Usage Example: 
 
-```>>> python benford.py 1 ./data/fibonacci.csv```
+```>>> python benford.py 1 data/fibonacci.csv```
 
 The first parameter denotes the type of Benford test to be performed. Options are:
 
@@ -83,7 +83,7 @@ The script's file handling is a bit rudimentary. It reads csv text file formatte
 
 ## Other Usage Information
 
-It is left to the user to control and normalise the dataset that the script will run on. For exmaple, the user should control for negative numbers in the dataset prior to running the script. This will most likely be a common pre-processing task for accountancy data.  
+It is left to the user to control and normalise the dataset that the script will run on. For example, the user should control for negative numbers in the dataset prior to running the script. This will most likely be a common pre-processing task for accountancy data.  
 
 ## Test Data
 
@@ -101,7 +101,7 @@ First Digit Distribution                      | First Two Digits Joint Distribut
 :--------------------------------------------:|:-----------------------------------------------:
 ![World Population](/doc/world_pop_2017.png)  | ![World Population](/doc/world_pop_2017_12.png)
 
-* Monthly returns (Dec 1990 - May 2005) from Fairfield Sentry Ltd (a former Bernie Madoff fund) - [data source](https://www.sec.gov/news/studies/2009/oig-509/exhibit-0293.pdf). Visible deviations from  expected Benford distributions, but notably *not* statistically significant under Chi-Squared test. Read more hear about whether Madoff may have evaded detection via Benford analysis [read more here](). 
+* Monthly returns (Dec 1990 - May 2005) from Fairfield Sentry Ltd (a former Bernie Madoff fund) - [data source](https://www.sec.gov/news/studies/2009/oig-509/exhibit-0293.pdf). Visible deviations from  expected Benford distributions, but notably *not* statistically significant under Chi-Squared test. [Read more hear](https://seekingalpha.com/article/173294-madoffs-results-really-were-random) about whether Madoff may have evaded detection via Benford analysis. 
 
 First Digit Distribution                             | First Two Digits Joint Distribution
 :---------------------------------------------------:|:------------------------------------------------------:
