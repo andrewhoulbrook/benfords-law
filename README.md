@@ -1,6 +1,6 @@
 # Benford's Law
 
-A script to compare a given dataset to Benford's Law and its generalized form.
+A script to compare a given dataset to Benford's Law and its generalised form.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ Benford's Law can also be generalised beyond the first digit to consider probabi
 
 The first digit distribution alone doesn't help narrow the data into a subset of potential fraudulent data. It also doesn't necessarily help generate specific leads for investigators (sample sizes for first digit tests often impractical to manage). Tests for conformity to Benford's Law are often described as indicating the *possibility* of the presence of fraud.
 
-Worth nothing that if, for example, certain accounts data is expected to conform to Benford’s law but doesn't, it doesn’t necessarily mean the data is fraudulent. It could however offer reason for further investigation.  
+Worth nothing that if, for example, certain accounts data are expected to conform to Benford’s law but doesn't, it doesn’t necessarily mean the data is fraudulent. It could however offer reason for further investigation.  
   
 ### Prerequisites
 
@@ -101,7 +101,7 @@ First Digit Distribution                      | First Two Digits Joint Distribut
 :--------------------------------------------:|:-----------------------------------------------:
 ![World Population](/doc/world_pop_2017.png)  | ![World Population](/doc/world_pop_2017_12.png)
 
-* Monthly returns (Dec 1990 - May 2005) from Fairfield Sentry Ltd (a former Bernie Madoff fund) - [data source](https://www.sec.gov/news/studies/2009/oig-509/exhibit-0293.pdf). Visible deviations from  expected Benford distributions, but notably *not* statistically significant under Chi-Squared test. [Read more hear](https://seekingalpha.com/article/173294-madoffs-results-really-were-random) about whether Madoff may have evaded detection via Benford analysis. 
+* Monthly returns (Dec 1990 - May 2005) from Fairfield Sentry Ltd (a former Bernie Madoff fund) - [data source](https://www.sec.gov/news/studies/2009/oig-509/exhibit-0293.pdf). Visible deviations from  expected Benford distributions, but notably *not* statistically significant under Chi-Squared test. [Read more here](https://seekingalpha.com/article/173294-madoffs-results-really-were-random) about whether Madoff may have evaded detection via Benford analysis. 
 
 First Digit Distribution                             | First Two Digits Joint Distribution
 :---------------------------------------------------:|:------------------------------------------------------:
