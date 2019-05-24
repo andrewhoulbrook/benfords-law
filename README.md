@@ -50,6 +50,7 @@ Requires the following Python modules installed too if you don't already have th
 ```
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 ```
 
 ### Installing
@@ -59,6 +60,7 @@ Required modules are available from PyPI and can easily be installed as follows:
 ```
 pip install numpy
 pip install pandas
+pip install matplotlib
 ```
 
 Note: these are not minor installs! Read more about [NumPy](http://www.numpy.org/) and [Pandas](https://pandas.pydata.org/). 
@@ -127,6 +129,7 @@ Plenty more examples at the fantastic [testingbenford.com](http://testingbenford
 * [Python](http://www.python.org)
 * [NumPy](http://www.numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
 
 ## Authors
 
