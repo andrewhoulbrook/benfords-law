@@ -39,7 +39,7 @@ Benford's Law can also be generalised beyond the first digit to consider probabi
 
 The first digit distribution alone doesn't help narrow the data into a subset of potential fraudulent data. It also doesn't necessarily help generate specific leads for investigators (sample sizes for first digit tests often impractical to manage). Tests for conformity to Benford's Law are often described as indicating the *possibility* of the presence of fraud.
 
-Worth nothing that if, for example, certain accounts data are expected to conform to Benford’s law but doesn't, it doesn’t necessarily mean the data is fraudulent. It could however offer reason for further investigation.  
+It's worth noting that if, for example, certain accounts data are expected to conform to Benford’s law but don't, it doesn’t necessarily mean the data are fraudulent. It could however offer reason for further investigation.  
   
 ### Prerequisites
 
